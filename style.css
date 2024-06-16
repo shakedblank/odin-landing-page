@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.header-list{
+    list-style: none;
+    display: flex;
+    gap:20px;
+    background-color:#1F2937 ;
+    color: #F9FAF8;
+    height: 48px;
+    align-items: center;
+    justify-content:center;
+    padding-left: 20vw;
+    padding-right: 20vw;
+}
+.header-list a{
+    color: #F9FAF8;
+    text-decoration: none;
+}
+.main-logo{
+    font-size: 24px;
+    margin-right: auto;
+    margin-left: 0;
+    font-weight: 700;
+}
+.header-list li{
+}
